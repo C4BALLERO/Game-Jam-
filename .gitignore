@@ -1,0 +1,49 @@
+# Unity generated
+/Library
+/Temp
+/Obj
+/Build
+/Builds
+/Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated
+*.user
+*.userprefs
+*.pidb
+*.bo
+*.svd
+*.pdb
+
+# Unity3D generated
+auto-response-system*
+/Library/BurstCache*
+/Library/ScriptAssemblies
+*.csproj
+*.unityproj
+*.sln
+*.suo
+.exsln
+mssql.db
+*.dll.old
+*.nuget.props
+*.nuget.targets
+UnityGeneratedFileParseExceptions.json
+
+# Crashlytics
+/Crashlytics/force-quit-*
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Never commit Library folder
+/Library/
+
+# Packages
+/Packages/repositories.lock.json
+
