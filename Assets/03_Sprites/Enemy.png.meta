@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: f6e784beaae18504fad1fa0a59c96170
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8596640243658272642
+    second: Enemy_0
+  - first:
+      213: -7642239419928554605
+    second: Enemy_1
+  - first:
+      213: -3876759189950653258
+    second: Enemy_2
+  - first:
+      213: -5720429097031363069
+    second: Enemy_3
+  - first:
+      213: -7911572535675539837
+    second: Enemy_4
+  - first:
+      213: 5398807837072792716
+    second: Enemy_5
+  - first:
+      213: -3763824636803078212
+    second: Enemy_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Chest
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 553
+        width: 194
+        height: 168
+      alignment: 9
+      pivot: {x: 0.55752766, y: 0.4391047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f241131c66d4770800000000000000
+      internalID: 8596640243658272642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Head
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 542
+        width: 207
+        height: 201
+      alignment: 9
+      pivot: {x: 0.39666128, y: 0.07431288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393dba6ecbf41f590800000000000000
+      internalID: -7642239419928554605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_RightHand
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 259
+        width: 188
+        height: 239
+      alignment: 9
+      pivot: {x: 0.84628797, y: 0.92415655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc92438e0cf23ac0800000000000000
+      internalID: -3876759189950653258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_LeftHand
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 271
+        width: 141
+        height: 183
+      alignment: 9
+      pivot: {x: 0.24275543, y: 0.9218175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30613ac5b04fc90b0800000000000000
+      internalID: -5720429097031363069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_RightFeet
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 148
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6193961, y: 0.86099946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ea25432b2743290800000000000000
+      internalID: -7911572535675539837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_LeftFeet
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 22
+        width: 128
+        height: 141
+      alignment: 9
+      pivot: {x: 0.25296044, y: 0.88256633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c915baf1b6cea40800000000000000
+      internalID: 5398807837072792716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Sword
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 13
+        width: 218
+        height: 163
+      alignment: 9
+      pivot: {x: 0.1501714, y: 0.8309318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb72d763f6534cbc0800000000000000
+      internalID: -3763824636803078212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 555a708108840a44fa1286a847b67784
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy_Chest: 8596640243658272642
+      Enemy_Head: -7642239419928554605
+      Enemy_LeftFeet: 5398807837072792716
+      Enemy_LeftHand: -5720429097031363069
+      Enemy_RightFeet: -7911572535675539837
+      Enemy_RightHand: -3876759189950653258
+      Enemy_Sword: -3763824636803078212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
